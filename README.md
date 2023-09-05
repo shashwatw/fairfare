@@ -1,3 +1,3 @@
 # FAIRFARE
-> [Live Website](https://eat-n-split-teal.vercel.app/)
+> [Live Website](https://fair-is-fare.vercel.app/)
 
